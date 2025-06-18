@@ -97,8 +97,8 @@ cat harvester.txt
 | Target              | Windows VM via browser                                     |
 | Result              | Username/password harvested to SET logs                    |
 
-<img width="686" alt="Screenshot 2025-06-18 at 10 07 20 AM" src="https://github.com/user-attachments/assets/f92a7e02-504d-4f7d-8aad-c4ed5f117096" />
-<img width="604" alt="Screenshot 2025-06-18 at 10 11 29 AM" src="https://github.com/user-attachments/assets/8fad0152-65df-4a81-8802-d3aed2c032f2" />
+<img width="674" alt="Screenshot 2025-06-18 at 1 01 50 PM" src="https://github.com/user-attachments/assets/74da36bb-37d9-4d54-a5c0-a8d66ac0af64" />
+<img width="708" alt="Screenshot 2025-06-18 at 1 02 24 PM" src="https://github.com/user-attachments/assets/18a2b268-8a24-4d11-8f8e-17d50883c46f" />
 <img width="632" alt="Screenshot 2025-06-18 at 11 42 55 AM" src="https://github.com/user-attachments/assets/24b29c9b-89ce-4dbc-aabf-d6310131d4d8" />
 
 
